@@ -1,0 +1,42 @@
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 40%;                
+    background-color:rgb(230, 228, 228);
+    height: 1px;
+}
+.hr_embaixo_carros{
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;                
+    background-color:rgb(230, 228, 228);
+    height: 1px;
+}
+#porsche{
+    width: 30%;
+}
+#bmw{
+    width:50%;
+}
+#historia_automovel{
+    width: 80%;
+}
+.conteudo_imagem{
+    border: 1px solid rgb(230, 228, 228);
+    border-radius:4px;
+    height: 100%;
+}
+
+.botao_veja_mais{
+    padding-left: 20px; 
+    margin-bottom: 10%;
+}
+footer{
+    background-color: rgb(124, 124, 123);
+    margin-top: 40%;
+}
+.carousel-inner  {
+    height: 10%;
+}
